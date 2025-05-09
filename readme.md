@@ -2,6 +2,6 @@
 
 ### Première étape du développement d'un thème WP
 
-#### Auteur : Eddy Martin
+#### Auteur : Jessy Cabana
 
 #### Adresse de la github-page
